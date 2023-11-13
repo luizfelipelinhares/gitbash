@@ -2,11 +2,16 @@
 Instruções GitBash
 
 [Clonar Repositório](#clonar-repositorio)  
-[Criar Branch](#clonar-repositorio)  
-[Mudar de Branch](#clonar-repositorio)  
-[Deletar Branch](#clonar-repositorio)  
-[Clonar Repositório](#clonar-repositorio)  
-
+[Criar Branch](#criar-nova-branch)  
+[Mudar de Branch](#mudar-de-branch)  
+[Deletar Branch](#deletar-branch)  
+[Commits](#commits)  
+[Verificar arquivos modificados](#verificar-arquivos-modificados)  
+[Adicionar arquivos para commit](#adicionar-arquivos-para-commit)  
+[Commit](#commit)  
+[Upload para o github](#upload-para-o-github)  
+[Merge](#merge)  
+[Renomear um arquivo](#renomear-um-arquivo)
 
 <hr>
 
@@ -23,7 +28,7 @@ Instruções GitBash
 -git push origin -u \<nome da branch\>
 
 
-### Mudar para outra branch
+### Mudar de branch
 
 -git switch \<nome da branch\>
 
@@ -32,7 +37,7 @@ Instruções GitBash
 
 -git branch -d \<nome da branch\>
 
-## Commits
+### Commits
 
 ### Verificar arquivos modificados
 
@@ -44,7 +49,7 @@ Instruções GitBash
 
 -git add --all
 
-### Commit
+## Commit
 
 -git commit -m \<Descrição do commit\>
 
