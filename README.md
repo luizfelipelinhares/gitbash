@@ -37,7 +37,7 @@ Instruções GitBash
 
 -git branch -d \<nome da branch\>
 
-### Commits
+## Commits
 
 ### Verificar arquivos modificados
 
@@ -49,7 +49,7 @@ Instruções GitBash
 
 -git add --all
 
-## Commit
+### Commit
 
 -git commit -m \<Descrição do commit\>
 
