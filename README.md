@@ -13,6 +13,12 @@ Instruções GitBash
 [Merge](#merge)  
 [Renomear um arquivo](#renomear-um-arquivo)
 
+Para concluir as modificações, precisa dar commit e push.  
+Ordem das coisas: 
+1. git add \<Nome do arquivo modificado\>
+2. git commit -m "seu commit aqui"
+3. git push
+
 <hr>
 
 ### **Clonar repositório**
@@ -75,3 +81,7 @@ Baixar todos os arquivos do repositório sem atrapalhar os já modificados no pc
 ## Apagar pastas
 
 -git rm -r \<Nome da pasta\>
+
+## Apagar Arquivos
+
+-git rm \<Nome da pasta\>
