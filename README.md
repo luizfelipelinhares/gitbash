@@ -31,7 +31,7 @@ Instruções GitBash
 
 ### Mudar de branch
 
--git switch \<nome da branch\>
+-git checkout \<nome da branch\>
 
 
 ### Deletar branch
