@@ -35,7 +35,7 @@ Instruções GitBash
 
 ### Deletar branch
 
--git branch -d \<nome da branch\>
+-git branch -d origin \<nome da branch\>
 
 ## Commits
 
@@ -64,3 +64,7 @@ Instruções GitBash
 ## Renomear um arquivo
 
 -git mv \<nome_Antigo\> \<nome_novo\>
+
+## Git fetch
+
+-git fetch --ALL
