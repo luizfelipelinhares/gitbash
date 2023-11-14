@@ -35,7 +35,7 @@ Instruções GitBash
 
 ### Deletar branch
 
-Deletar a banch no servidor do github
+Deletar a banch no servidor do github  
 -git push -d origin \<nome da branch\>
 
 ## Commits
