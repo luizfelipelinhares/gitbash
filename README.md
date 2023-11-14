@@ -69,4 +69,9 @@ Deletar a banch no servidor do github
 
 ## Git fetch
 
+Baixar todos os arquivos do repositório sem atrapalhar os já modificados no pc  
 -git fetch --ALL
+
+## Apagar pastas
+
+-git rm -r \<Nome da pasta\>
