@@ -24,8 +24,8 @@ Instruções GitBash
 -git branch
 
 ### Criar nova branch
--git branch \<nome da branch\>  
--git push origin -u \<nome da branch\>
+
+-git push origin \<nome da branch\>
 
 
 ### Mudar de branch
